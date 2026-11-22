@@ -1,0 +1,12 @@
+
+{
+  "name": "ARENA SAVAŞI",
+  "short_name": "ARENA",
+  "description": "Mobil arena savaş oyunu",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#070a18",
+  "theme_color": "#070a18"
+}
